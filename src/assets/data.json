@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Lava Blaze 5G",
+    "image": "https://m.media-amazon.com/images/I/41QoAqu6g4L._AC_SY200_.jpg",
+    "description": "Lava Blaze 5G (Glass Green, 8GB RAM, UFS 2.2 128GB Storage) | 5G Ready | 50MP AI Triple Camera | Upto 16GB Expandable RAM | Charger Included | Clean Android (No Bloatware)",
+    "type": "Phone",
+    "color": "Green",
+    "price": 14999.00,
+    "discount": 10,
+    "quantity": 0
+  },
+  {
+    "id": "2",
+    "name": "Fire-Boltt Smart Watch",
+    "image": "https://m.media-amazon.com/images/I/41LOJ+XwUSL._AC_SY200_.jpg",
+    "description": " Fire-Boltt Encore Stainless Steel Smart Watch with Advanced 1.83” Full Touch Screen Display, 240*284 PPI, Bluetooth.",
+    "type": "Watch",
+    "color": "Black",
+    "price": 899.99,
+    "discount": 5,
+    "quantity": 0
+  },
+  {
+    "id": "3",
+    "name": " Bean Bag",
+    "image": "https://m.media-amazon.com/images/I/51BGxZbBRFL._AC_SY200_.jpg",
+    "description": "Raya Collection Jumbo 4XL Bean Bag Cover with Footrest Cover with Cousion Cover Without Beans (Cover Only) -Yellow",
+    "type": "Furniture",
+    "color": "Yellow",
+    "price": 979,
+    "discount": 15,
+    "quantity": 0
+  },
+  {
+    "id": "4",
+    "name": "OnePlus Ear Buds 2",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31IdsY7yWTL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+    "description": "OnePlus Nord Buds 2 True Wireless in Ear Earbuds with Mic, Upto 25dB ANC 12.4mm Dynamic Titanium Drivers, Playback:Upto 36hr case, 4-Mic Design, IP55 Rating, Fast Charging [Thunder Gray]",
+    "type": "headphones",
+    "color": "Thunder Gray",
+    "price": 2999.99,
+    "discount": 15,
+    "quantity": 0
+  }
+  
+]
